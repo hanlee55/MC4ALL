@@ -39,4 +39,4 @@ Minecraft controlled by everyone who participates in the Youtube Live Streaming.
 ## Live streaming
 |No|date|url|
 |---|---|---|
-|||
+|1st|01/22/23|[https://youtu.be/nPDMSB9smro](https://youtu.be/nPDMSB9smro)|
